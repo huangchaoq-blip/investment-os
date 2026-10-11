@@ -2,6 +2,8 @@
 
 **A Reproducible Investment Research & Validation System**
 
+[![Offline engineering verification](https://github.com/huangchaoq-blip/investment-os/actions/workflows/ci.yml/badge.svg)](https://github.com/huangchaoq-blip/investment-os/actions/workflows/ci.yml)
+
 Investment OS separates investment ideas from the evidence required to trust
 them. It was built to turn Japanese-equity research into explicit decisions,
 point-in-time inputs, deterministic Replay and independently governed validation.

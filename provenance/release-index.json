@@ -29,11 +29,11 @@
       "sha256": "bf3c0fcfac33911447ffb8bb6a1e5f7360933982a2006a1fd3820aeceb5a5bb5"
     },
     {
-      "bytes": 5269,
+      "bytes": 6388,
       "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
       "path": "INVESTMENT_OS_PUBLIC_RELEASE_REPORT_001.md",
       "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
-      "sha256": "51a93e48f8405329dc973902efe0d5af1e81d8863c9caf22ebdb9e1b4d24efa7"
+      "sha256": "83458ac07e3fefcedace6a339b7c3628ac8445e8739dc86591f6ad2150921789"
     },
     {
       "bytes": 480,
@@ -43,11 +43,11 @@
       "sha256": "53f8cc3d573ea4abbd65da5fb9e922f4dd519eefe7239ad62bec471b37770f9a"
     },
     {
-      "bytes": 4799,
+      "bytes": 4998,
       "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
       "path": "README.md",
       "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
-      "sha256": "2744ac3a9cb1b20d64914bd5866d036227f09ee2594ea53de899001b480ad67a"
+      "sha256": "00b35fcac7bf4ebad35a362a7bfd5004e669f9b055cd69526ab95679b71cac4c"
     },
     {
       "bytes": 2620,
@@ -127,11 +127,11 @@
       "sha256": "535d01f83c17c8e605d9f767df412bb62ead71d3bbae20b3428e3ced829c3ea8"
     },
     {
-      "bytes": 2908,
+      "bytes": 3063,
       "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
       "path": "docs/architecture.md",
       "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
-      "sha256": "51a185fe2ee6e050881e173ff5efc93a284261eae0b50b6a08d0c7ef80c1579c"
+      "sha256": "4d5c19555d51693197ef6fcad2939a9d70e592dc14fc8f767e6c44355d2dd2dd"
     },
     {
       "bytes": 2718,
@@ -176,11 +176,11 @@
       "sha256": "d5636a5531a904f95f6baf433d4f7afc580a420a27ebf8f2acf4206018227e14"
     },
     {
-      "bytes": 873,
+      "bytes": 1192,
       "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
       "path": "provenance/release-verification.json",
       "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
-      "sha256": "d010e8d799936980c62d3b2485ba516ddfc5eba63942665ce449fac009f7583e"
+      "sha256": "46cb43418c03056ce44e0ed5936438d1d54237eb58de6d0145a1e451b4e1e9c4"
     },
     {
       "bytes": 22795,

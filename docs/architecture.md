@@ -22,7 +22,9 @@ implementation.
 
 The four trimmed initializers (`data`, `database`, `data_platform`, `research`)
 avoid pulling private workflow modules into this deliberately selected subset.
-Their provenance is PUBLIC_ADAPTATION. Other selected source bytes are unchanged.
+Their provenance is PUBLIC_ADAPTATION. Other selected algorithm source bytes are
+unchanged. Four governance documents have navigation-only adaptations recorded
+in the source index; omitted private references point to an explicit notice.
 Imports retained for compatibility do not mean all legacy workflows are endorsed.
 
 ## Contract vs Implementation
