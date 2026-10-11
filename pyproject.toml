@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "investment-os"
+version = "0.1.0"
+description = "A Reproducible Investment Research & Validation System"
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.2,<3", "pyarrow>=18,<24", "PyYAML>=6,<7"]
+
+[project.scripts]
+investment-os-synthetic = "public_demo.replay:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

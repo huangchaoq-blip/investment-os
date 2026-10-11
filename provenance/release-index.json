@@ -1,0 +1,622 @@
+{
+  "excluded_categories": [
+    "original_git_history",
+    "provider_observations",
+    "reconstructable_derivatives",
+    "original_outcome_payloads",
+    "historical_ai_responses",
+    "uncertain_fixture_provenance",
+    "credentials",
+    "private_configs",
+    "accounts",
+    "binary_artifacts",
+    "build_outputs",
+    "local_environments"
+  ],
+  "records": [
+    {
+      "bytes": 734,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": ".github/workflows/ci.yml",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "c53a21a645c79e4a55081d6a6a2a56c53ac01c45a15912f850f79c1542b34be5"
+    },
+    {
+      "bytes": 156,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": ".gitignore",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "bf3c0fcfac33911447ffb8bb6a1e5f7360933982a2006a1fd3820aeceb5a5bb5"
+    },
+    {
+      "bytes": 5269,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "INVESTMENT_OS_PUBLIC_RELEASE_REPORT_001.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "51a93e48f8405329dc973902efe0d5af1e81d8863c9caf22ebdb9e1b4d24efa7"
+    },
+    {
+      "bytes": 480,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "LICENSE",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "53f8cc3d573ea4abbd65da5fb9e922f4dd519eefe7239ad62bec471b37770f9a"
+    },
+    {
+      "bytes": 4799,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "README.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "2744ac3a9cb1b20d64914bd5866d036227f09ee2594ea53de899001b480ad67a"
+    },
+    {
+      "bytes": 2620,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "case-studies/single-stock-pattern-lab/README.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "1c642daca4445ad3298f9ee30ac43af7868404a3d537268016c777c115f9baa8"
+    },
+    {
+      "bytes": 7165,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "decisions/ADR-004-portfolio-domain-model.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "ce155e1aab3cd3b54a0118b2795cb17cc917419dfc39616da39c5d5b73e33207"
+    },
+    {
+      "bytes": 9427,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "decisions/ADR-005-portfolio-engine-architecture.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b36e80226dc9db8deff52227b9f5d060b5b52cc593478a9740800fafe469b752"
+    },
+    {
+      "bytes": 6032,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "decisions/ADR-006-portfolio-engine-result-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "5768ac45335bc562ee26a2f033846aabb4ac45da207083fc46ccdde4f8afe1a7"
+    },
+    {
+      "bytes": 12630,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/ADR-007-portfolio-state-transition-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "373a59513cd33ac7fb6c088bf9d0be96b90d9a93b554bd19670d484c6300e6ee"
+    },
+    {
+      "bytes": 8101,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-003-replay-execution-model.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "2ec53013796ba9f93db0a1ffe05dda06abba324aa60dd1865c18f8585e4aa219"
+    },
+    {
+      "bytes": 4613,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-006-execution-intent-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "936f26822b6e742e8005847990ce3ca016dcd4ae021b6e4207196b6b698bc119"
+    },
+    {
+      "bytes": 4999,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-007-execution-event-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "f8398a9ffb68647b3da629675d36ae3eb3fd6db6e6a4b8595eb9dfff7c033523"
+    },
+    {
+      "bytes": 11488,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-008-execution-context-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "e0de05992bf894cf86eb5725aaad5aafe0d0c7f7bc885939cd60785c84d00e46"
+    },
+    {
+      "bytes": 4414,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-009-trade-performance-projection-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a4240df79fd06c92a741c1d0bb90096e731deb2c7b89235abf6f95b612b0ee3b"
+    },
+    {
+      "bytes": 18909,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "decisions/DEC-011-dataset-publication-and-versioning-contract.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "535d01f83c17c8e605d9f767df412bb62ead71d3bbae20b3428e3ced829c3ea8"
+    },
+    {
+      "bytes": 2908,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "docs/architecture.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "51a185fe2ee6e050881e173ff5efc93a284261eae0b50b6a08d0c7ef80c1579c"
+    },
+    {
+      "bytes": 2718,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "docs/data-rights.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "94430f055785ee661bd9fd0801bb8fe7a3bfb698389692f57906960f3a32c790"
+    },
+    {
+      "bytes": 2170,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "docs/methodology.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "31a88dfa8538fe3d68f50ba605d1f9bbb43e12e9f88047b2ca55423b63f61726"
+    },
+    {
+      "bytes": 2783,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "docs/module-status.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "d4d87d8551554d86f44a117342886a05567fe7918ef34ba7bac0e540c56470ca"
+    },
+    {
+      "bytes": 871,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "docs/omitted-archive-references.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "6a83d5c1b88af18ed64081901a0b16580aa650c9c285d35b9a09271f23a75d16"
+    },
+    {
+      "bytes": 38810,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "docs/rfc/RFC-006-operation-scoped-provider-qualification.md",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "d444361e2756158179d1c372a8b1380ba9908b1343e8b7bbb4f3ed18520daec1"
+    },
+    {
+      "bytes": 338,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "provenance/release-root.json",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "d5636a5531a904f95f6baf433d4f7afc580a420a27ebf8f2acf4206018227e14"
+    },
+    {
+      "bytes": 873,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "provenance/release-verification.json",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "d010e8d799936980c62d3b2485ba516ddfc5eba63942665ce449fac009f7583e"
+    },
+    {
+      "bytes": 22795,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "provenance/source-index.json",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "2fe9cae71c02e668b6cf1876d4bfe16966a40f177eeb229e35360a50f580ae43"
+    },
+    {
+      "bytes": 479,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "pyproject.toml",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "5c1ffd41ed0913c7234de8922c16cc30ca65da603bef65a4818157a316cd8619"
+    },
+    {
+      "bytes": 80,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "src/data/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0ae1893385b22925c2eb4c59016286fb2d8c804b76aa1d28b55b4b8f09f75dd"
+    },
+    {
+      "bytes": 13653,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data/corporate_action_normalization.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "5e913251d6bb447055366cea791f31aca74d4b10e56daf66af9c1ad0b014d5a3"
+    },
+    {
+      "bytes": 18183,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data/historical_ingestion.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "4c37483677042dc555aeb3a3453c2d8f3fe580a3dd4f76fd169333f36822fa7c"
+    },
+    {
+      "bytes": 15758,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data/manifest.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "90c8e916f10a7f1e31a5d8f81b506d7cdcf7ba66e02b72642da2491e2b42432c"
+    },
+    {
+      "bytes": 27077,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data/provider_qualification.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "127e9875c33cd9c77077c91cbecd989e7197e85f1c44b5c7dc38c5ac102fa2bc"
+    },
+    {
+      "bytes": 3267,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data/storage.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "8d6500cc6be5e339581ccd41c2c8ccdb515dc4e0ddbe54f7c790cc0b28f52ca6"
+    },
+    {
+      "bytes": 80,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "src/data_platform/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0ae1893385b22925c2eb4c59016286fb2d8c804b76aa1d28b55b4b8f09f75dd"
+    },
+    {
+      "bytes": 2160,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/errors.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "77258a4e98b5764b13fb1479a4384b5ec9270ce8ffb01c72f436b51cf4e93613"
+    },
+    {
+      "bytes": 26637,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/models.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "6e4a38fe3b45e593eb6f3400acb90ea11a3e59ee6cc20c72ce00168a29143a84"
+    },
+    {
+      "bytes": 1068,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/provider.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "0d1ecddda6e1bc3c789dc7e0f4fbdea82e0ec0eafc9cdef6a0cc4d48413a66a6"
+    },
+    {
+      "bytes": 24859,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/publisher.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "53975bcd7bbd4b96aecb0c89fbb6202b6d097cb70dfed25431811c67a5e9f79b"
+    },
+    {
+      "bytes": 15386,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/qualification_engine.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "af96ed4a827eb2fc2ca77f2e785370562ebd0f306032046666690f630cd7311b"
+    },
+    {
+      "bytes": 55580,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/qualification_schemas.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "620d83c71e8db23d1ee8d5a9d082e78b1a173b7f1bf250bc50ab1de00944f62f"
+    },
+    {
+      "bytes": 5429,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/qualification_serialization.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a4bf7b9aeaa0e01b172bd484530466019d8378530096e297eade64ab043ae00c"
+    },
+    {
+      "bytes": 19779,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/data_platform/registration.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "936cdb221e7eea92da17f7e45665ad6f113faf7f031a979b862ad405e7389453"
+    },
+    {
+      "bytes": 80,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "src/database/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0ae1893385b22925c2eb4c59016286fb2d8c804b76aa1d28b55b4b8f09f75dd"
+    },
+    {
+      "bytes": 2957,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/database/yahoo_provider.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "32f1d3bb07f4375e3dfc3968ba8a6b7e1fc0cd516abc9be4a28bd64d44df52df"
+    },
+    {
+      "bytes": 1289,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "90840100beadb36dce053f37f7e2e1c0cdf9c1fce5ba328a8dbf8ec448987f17"
+    },
+    {
+      "bytes": 10304,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/checkpoint.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "13620ce0518eee749d59023bf4ee9f2fa187a21eded52631357144ddb68491b0"
+    },
+    {
+      "bytes": 7937,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/context.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "8737468b8cb8b1433ff705cf63691da59f76eadef003871d037aa58c6a40728a"
+    },
+    {
+      "bytes": 16383,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/engine.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a427e1d56e6801b4ef500f043d0977883ac3c7466b68313982dfcf729d7c7a3e"
+    },
+    {
+      "bytes": 5162,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/entry.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0cfdff9fa954c2cd8a329c8384998d6760c843aa38a94a6d2627a0bdeb60dea"
+    },
+    {
+      "bytes": 513,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/exceptions.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b4d725a6021c45a6818ae4e4e352d969947e44ea9f135b6c62bc3465641cdf90"
+    },
+    {
+      "bytes": 5312,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/exit.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "5a571f9308d8bdc93a303762685ab66fe3f41bcb89201dabcb86d6ac336a30a8"
+    },
+    {
+      "bytes": 243,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/position_state.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a514fff5c9a38cf7f02af1177e4e131590b83e6256484a3ccfc94cb2d14a1502"
+    },
+    {
+      "bytes": 1749,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/runtime_values.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "7d616014f955b60e7eac209c212d510562d7879b2184390c8773a5f49b028d76"
+    },
+    {
+      "bytes": 139,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/state.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "ded78798df18030eb2f4aef48af75ff96fa09580fb4d77846d91a1032bd6838a"
+    },
+    {
+      "bytes": 1697,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/state_machine.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "906f3e050a404bc7a52f20d760a2850aa20855976345e560f10ab10ccd2d181f"
+    },
+    {
+      "bytes": 4407,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/timeline.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "78a4a5dc21e173bac267919fcc1664caf6647b0d5622f3117af3d6562260c7c7"
+    },
+    {
+      "bytes": 7438,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/execution/workflow.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "8f5f528bb8ae44a0380f554e433341fe405ad6f6f9e230ac436663b6673728ef"
+    },
+    {
+      "bytes": 186,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/facts/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "3cac9654431fba7c25b1fa1f826ea7365da8027ec17a8d36c43c9fbaf1131ccb"
+    },
+    {
+      "bytes": 1275,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/facts/builder.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "5929d8447583e50da0bed54989ce246b0eb2096d7de7b5f0f04be6876734dee5"
+    },
+    {
+      "bytes": 23944,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/facts/pullback.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "920e7c19f56df7f2f75dac9f0d9155fe00257d26c3042e40f23cc611035ff875"
+    },
+    {
+      "bytes": 278,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a6d3ebcfcd26d764b227a15cb93777dea0b7247ed03bba4b475e9c06c4e125fa"
+    },
+    {
+      "bytes": 3389,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/aggregate.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "be060a69dd8ca5b234b4cd0cfda3a00aabb73f8c48058ba892f03587f3d29679"
+    },
+    {
+      "bytes": 22204,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/engine.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "de9e07d15fb0ab7484dcf8ea756ef4749a731636faa641bc4ca56e327c1c28be"
+    },
+    {
+      "bytes": 1671,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/invariants.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "eb0646066e5b4b5bb3f2abf8b035e7ea5a1477b83315e1885357728a1e1cfd7b"
+    },
+    {
+      "bytes": 6867,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/persistence.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "18306af5460f4d7e3286db53cb0afb32c46ffa892e0e89dc09ac11c47b80e552"
+    },
+    {
+      "bytes": 2866,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/portfolio.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "0a5e54b0fb6a7346c5dd25d9b1e5b1a704aa276ff9801735c33698c9dba0f088"
+    },
+    {
+      "bytes": 3345,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/transaction.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "48abb1f252834368d8a77880411ff2246ef5845f33626bc09077b08a617eaeb3"
+    },
+    {
+      "bytes": 8932,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/portfolio/validation.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "629850b934bdfe7730268039b0d6eaa453bbde0e47f628d64f954c731de435ce"
+    },
+    {
+      "bytes": 558,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/projection/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "6e12af43b9e24d41efcfbe3607b797262c8462cf7abc50ff8261c33ef0492bdc"
+    },
+    {
+      "bytes": 4067,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/projection/performance.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "dda67f5d907df4681b66bc2cfaed095bd655d3b2c43f3c0efc70d51aa3f4ce06"
+    },
+    {
+      "bytes": 10346,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/projection/position.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "cec1106f16ae95d691119f6dacc598c7a0734e0f8f556708ac7a38aff2915752"
+    },
+    {
+      "bytes": 9843,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/projection/trade.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "90c3f8448a6aac0b26adf680b6fcd4684fae0f06c473b8afab52415af470a449"
+    },
+    {
+      "bytes": 79,
+      "origin": "REIMPLEMENTED_DEMO",
+      "path": "src/public_demo/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "4c3133b514eee1ba7bcb216ab50f4878d2c1a28557b04d015dc398bc72dafe45"
+    },
+    {
+      "bytes": 4857,
+      "origin": "REIMPLEMENTED_DEMO",
+      "path": "src/public_demo/replay.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "543c238cc3ae5662d1ffcae4748afbb101f94d57e14cf6417875a1379297cd3f"
+    },
+    {
+      "bytes": 492,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/replay/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "138c94622a4988b6094569f27aae487ae518929dc36ee1096e06412fbc0f90bf"
+    },
+    {
+      "bytes": 1273,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/replay/context.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "9c04f55ba1326b441d76f1a56128e5481126ca87267f962ff9db2f4eedef2cb7"
+    },
+    {
+      "bytes": 31433,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/replay/orchestrator.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0e2e15f57357ece69aeed6301572db7b3c65ab5a11c352c8bf9ac3bf79b078a"
+    },
+    {
+      "bytes": 80,
+      "origin": "PUBLIC_ADAPTATION",
+      "path": "src/research/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b0ae1893385b22925c2eb4c59016286fb2d8c804b76aa1d28b55b4b8f09f75dd"
+    },
+    {
+      "bytes": 7443,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/research/ledger.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "488fb05e359f82a110c8faf6de4f7c135cb9e3a67949cf50484186a2596bebbc"
+    },
+    {
+      "bytes": 9017,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/research/performance.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "004cd50c5242408c9d44b373d363e635aba27b6945e04d8eedd807323086ff34"
+    },
+    {
+      "bytes": 484,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/strategy/__init__.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "fcb92987bb9aee3395b85f58a5e778affdf0244f9f3452e3987bfa4ead4d1a96"
+    },
+    {
+      "bytes": 628,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/strategy/engine.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "a396bd686224c1f1874cfc2b8269b0d81f777283d2481c1ea5bf4c5ee399433f"
+    },
+    {
+      "bytes": 3946,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/strategy/intent.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "bbeac23be266f0e3fde1589ba94b5f6d67303eb1503ebc570279e1d48080fc73"
+    },
+    {
+      "bytes": 226,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/strategy/models.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "6599ae4b65b0a0ba9a2a354aa47d80b3b54e87eb60ca917748faba7832585dc9"
+    },
+    {
+      "bytes": 6527,
+      "origin": "ORIGINAL_IMPLEMENTATION",
+      "path": "src/strategy/pullback.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "494b9449be2a6c324bd5c10775b216ffe87cd5b870ae7ade596963e38f7cb002"
+    },
+    {
+      "bytes": 9881,
+      "origin": "REIMPLEMENTED_DEMO",
+      "path": "tests/test_public_release.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "b49ff78549faa58acb90b1b46166b34924f9ad47249e054cce6b6ed7b91e61c3"
+    },
+    {
+      "bytes": 4930,
+      "origin": "NEW_RELEASE_DOCUMENTATION_OR_TOOLING",
+      "path": "tools/verify_release.py",
+      "public_review": "CODE_CONTRACT_OR_INDEPENDENT_SYNTHETIC_ONLY",
+      "sha256": "1efa994c5f24058968bb1f8e1382a4584f49758d2ba54dec83c6d8a26d8f1a50"
+    }
+  ],
+  "schema": "investment-os-public-release-index-v1",
+  "self_exclusion": "This index does not hash itself; Git commit binds its content."
+}

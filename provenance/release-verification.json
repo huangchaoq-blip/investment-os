@@ -1,0 +1,23 @@
+{
+  "build": "WHEEL_AND_SDIST_PASSED",
+  "ci": {
+    "prior_python_3_11_and_3_12_success_observed": true,
+    "sanitized_revision_status": "PENDING"
+  },
+  "commit_identity_scan": "PUBLIC_NOREPLY_ONLY",
+  "market_or_investment_model_calls": 0,
+  "original_history_imported": false,
+  "private_archive_modified": false,
+  "provider_payloads_imported": false,
+  "schema": "investment-os-public-release-verification-v1",
+  "secret_blob_scan": "NO_MATCH_HEURISTIC_ONLY",
+  "source_archive_hashes_verified": 63,
+  "synthetic_tests": {
+    "clean_environment_tests_passed": 22,
+    "fresh_process_reproduction": "IDENTICAL",
+    "local_python": "3.12",
+    "pip_check": "PASSED",
+    "synthetic_checksum": "396cedc047366191bad9cfc6bdeda6395c0aa73de834e175b8518afc94b4c5d1"
+  },
+  "tested_source_index_sha256": "2fe9cae71c02e668b6cf1876d4bfe16966a40f177eeb229e35360a50f580ae43"
+}
